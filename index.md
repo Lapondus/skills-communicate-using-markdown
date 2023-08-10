@@ -21,6 +21,13 @@ return 0;
 app.use(
 ```
 
+- [X] Headery
+- [X] Zdj
+- [X] CodeBlock
+- [ ] Lista
+- [ ] KOlejny kro
+- [ ] jeszcze jeden krok
+
 
 
 
